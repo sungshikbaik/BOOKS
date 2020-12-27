@@ -8,6 +8,7 @@ namespace RoadBook.CsharpBasic.Chapter01.Examples
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("안녕하세요!");
+            Console.WriteLine("안녕!");
         }
     }
 }
